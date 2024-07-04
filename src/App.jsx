@@ -3,6 +3,7 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 import HeaderComponent from "./components/Header";
+import BriefIntro from "./components/BriefIntro";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -11,6 +12,10 @@ function App() {
     <>
       <div>
         <HeaderComponent />
+      </div>
+
+      <div>
+        <BriefIntro />
       </div>
 
       <div>
