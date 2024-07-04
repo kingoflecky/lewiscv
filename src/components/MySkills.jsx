@@ -3,7 +3,7 @@ import "../css/MySkills.css"
 const MySkills = () => {
   return (
     <>
-      <h4>My Skills</h4>
+      <h3>My Skills</h3>
       <p>Front-End</p>
       <ul>
         <li>React JS</li>

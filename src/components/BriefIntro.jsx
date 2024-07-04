@@ -1,7 +1,7 @@
 const BriefIntro = () => {
   return (
     <>
-      <h4>About Me</h4>
+      <h3>About Me</h3>
       <p>
         I'm Lewis, a software engineer with experience across financial
         technologies and retail. My roles to date have been predominatly

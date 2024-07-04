@@ -1,10 +1,9 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
 import HeaderComponent from "./components/Header";
 import BriefIntro from "./components/BriefIntro";
 import MySkills from "./components/MySkills";
+import Experience from "./components/Experience";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -22,6 +21,11 @@ function App() {
       <div className="card">
         <MySkills />
       </div>
+
+      <div className="card">
+        <Experience />
+      </div>
+      
     </>
   );
 }
