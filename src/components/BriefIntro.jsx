@@ -13,7 +13,14 @@ const BriefIntro = () => {
       <p>
         Alongside engineering, I built and run a successful UK-based marketing
         company, Pivotal | the visual media company. Find out more at{" "}
-        <a>getpivotal.co.uk</a>. My creative portfolio lives at <a>lquinn.co.uk.</a>
+        <a href="https://getpivotal.co.uk" target="_blank">
+          getpivotal.co.uk
+        </a>
+        . My creative portfolio lives at{" "}
+        <a href="https://lquinn.co.uk" target="_blank">
+          lquinn.co.uk
+        </a>
+        .
       </p>
 
       <p>
