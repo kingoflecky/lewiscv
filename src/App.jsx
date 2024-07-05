@@ -4,6 +4,7 @@ import HeaderComponent from "./components/Header";
 import BriefIntro from "./components/BriefIntro";
 import MySkills from "./components/MySkills";
 import Experience from "./components/Experience";
+import Education from "./components/Education";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -24,6 +25,10 @@ function App() {
 
       <div className="card">
         <Experience />
+      </div>
+
+      <div className="card">
+        <Education />
       </div>
       
     </>

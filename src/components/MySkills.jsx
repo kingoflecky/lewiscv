@@ -1,30 +1,39 @@
-import "../css/MySkills.css"
+import "../css/MySkills.css";
 
 const MySkills = () => {
   return (
     <>
       <h3>My Skills</h3>
-      <p>Front-End</p>
-      <ul>
-        <li>React JS</li>
-        <li>JavaScript</li>
-        <li>CSS/SASS</li>
-        <li>HTML5</li>
-        <li>Git & Github/BitBucket</li>
-      </ul>
 
-      <p>Back-End/Cloud Computing</p>
-      <ul>
-        <li>AWS - currently studying for Certified Developer Certification DVA-C02</li>
-        <li>Express JS</li>
-        <li>Node.js</li>
-      </ul>
+      <div className="skillsTable">
+        <div className="skillsItem">
+          <p>Front-End</p>
+          <ul>
+            <li>React JS</li>
+            <li>JavaScript</li>
+            <li>CSS/SASS</li>
+            <li>HTML5</li>
+            <li>Git & Github/BitBucket</li>
+          </ul>
+        </div>
 
-      <p>Other/Non-technical</p>
-      <ul>
-        <li>Accessibilty & WCAG</li>
-        <li>Agile & Scrum</li>
-      </ul>
+        <div className="skillsItem">
+          <p>Back-End/Cloud Computing</p>
+          <ul>
+            <li>AWS - studying for Certified Developer DVA-C02</li>
+            <li>Express JS</li>
+            <li>Node.js</li>
+          </ul>
+        </div>
+
+        <div className="skillsItem">
+          <p>Other/Non-technical</p>
+          <ul>
+            <li>Accessibilty & WCAG</li>
+            <li>Agile & Scrum</li>
+          </ul>
+        </div>
+      </div>
     </>
   );
 };
