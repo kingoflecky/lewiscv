@@ -22,7 +22,7 @@ const Experience = () => {
           Agile/Scrum.
         </li>
       </ul>
-
+      <br/>
       <h4>Associate Software Engineer at Sainsbury's Bank</h4>
       <p>May 2022 - November 2023</p>
       <ul>
@@ -37,7 +37,7 @@ const Experience = () => {
         </li>
         <li>React, JavaScript, FTL, Magnolia CMS, and CSS/SASS</li>
       </ul>
-
+      <br/>
       <h4>Director at Pivotal | The Visual Media Company</h4>
       <p>November 2020 - present</p>
       <ul>
@@ -63,7 +63,7 @@ const Experience = () => {
           general analytics.
         </li>
       </ul>
-
+      <br/>
       <h4>Store Manager at Sainsbury's</h4>
       <p>October 2019 - April 2022</p>
       <ul>
@@ -86,7 +86,7 @@ const Experience = () => {
           opportunity to upskill peers to support their own teams.{" "}
         </li>
       </ul>
-
+      <br/>
       <h4>Co-Founder at Sygn Creative Agency</h4>
       <p>July 2018 - November 2020</p>
       <ul>

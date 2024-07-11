@@ -32,6 +32,7 @@ const Education = () => {
         </li>
       </ul>
 
+<br/>
       <h4>InfinityWorks Software Engineering Bootcamp (Front-End)</h4>
       <p>February 2022 - May 2022</p>
       <ul>
