@@ -16,7 +16,7 @@ const BriefIntro = () => {
         <a href="https://getpivotal.co.uk" target="_blank">
           getpivotal.co.uk
         </a>
-        . My creative portfolio lives at{" "}
+        . My creative portfolio can be found at{" "}
         <a href="https://lquinn.co.uk" target="_blank">
           lquinn.co.uk
         </a>

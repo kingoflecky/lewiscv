@@ -9,11 +9,10 @@ const MySkills = () => {
         <div className="skillsItem">
           <p>Front-End</p>
           <ul>
-            <li>React JS</li>
+            <li>React</li>
             <li>JavaScript</li>
             <li>CSS/SASS</li>
             <li>HTML5</li>
-            <li>Git & Github/BitBucket</li>
           </ul>
         </div>
 
@@ -31,6 +30,8 @@ const MySkills = () => {
           <ul>
             <li>Accessibilty & WCAG</li>
             <li>Agile & Scrum</li>
+            <li>CI/CD Configuration & Pipelines</li>
+            <li>Git & Github/BitBucket</li>
           </ul>
         </div>
       </div>
