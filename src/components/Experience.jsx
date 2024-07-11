@@ -7,8 +7,8 @@ const Experience = () => {
       <p>November 2023 - present</p>
       <ul>
         <li>
-          Built and maintained systems to support the bank's loans and savings
-          applications.
+          Played a key role as part of an agile product team to develop and improve
+          customer experience across web-apps for Savings and Loans. Released new features, integrated new technologies, and supported day-to-day continuity.
         </li>
         <li>
           Accessibility Champion for the Bank's engineering function. Worked
@@ -68,24 +68,41 @@ const Experience = () => {
       <p>October 2019 - April 2022</p>
       <ul>
         <li>
-          Regional Lead for Learning & Development of colleagues looking to progress
-          their careers. I devised a structured system to ensure that management
-          teams across the region provide training to their collegues to achieve
-          company objectives.{" "} 
+          Regional Lead for Learning & Development of colleagues looking to
+          progress their careers. I devised a structured system to ensure that
+          management teams across the region provide training to their collegues
+          to achieve company objectives.{" "}
         </li>
         <li>
           Built store development plans to clearly map and visualise action
-          plans which propelled performance in KPI's. Store was previously underperforming vs target, my leadership saw the store well-above all targets within a 6 month period.
+          plans which propelled performance in KPI's. Store was previously
+          underperforming vs target, my leadership saw the store well-above all
+          targets within a 6 month period.
         </li>
-        <li>During this time I also became a key player in the region's HR function. Managing 25-70 colleagues at any one time, my due dilligence and organisational skills were recognised. I used this as an opportunity to upskill peers to support their own teams. </li>
+        <li>
+          During this time I also became a key player in the region's HR
+          function. Managing 25-70 colleagues at any one time, my due dilligence
+          and organisational skills were recognised. I used this as an
+          opportunity to upskill peers to support their own teams.{" "}
+        </li>
       </ul>
 
       <h4>Co-Founder at Sygn Creative Agency</h4>
       <p>July 2018 - November 2020</p>
       <ul>
-        <li>Built a successful start-up marketing company specialising in media production.</li>
-        <li>Overseeing logistics, primary account manager, and finance handler. Developed a key base network of business people in Scotland. Executed marketing campaigns and strategies. </li>
-        <li>Product management of our services and packages from conception to post release analysis.</li>
+        <li>
+          Built a successful start-up marketing company specialising in media
+          production.
+        </li>
+        <li>
+          Overseeing logistics, primary account manager, and finance handler.
+          Developed a key base network of business people in Scotland. Executed
+          marketing campaigns and strategies.{" "}
+        </li>
+        <li>
+          Product management of our services and packages from conception to
+          post release analysis.
+        </li>
       </ul>
     </>
   );
