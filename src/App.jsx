@@ -11,25 +11,25 @@ function App() {
 
   return (
     <>
-      <div className="card">
+      <section className="card">
         <HeaderComponent />
-      </div>
+      </section>
 
-      <div className="card">
+      <section className="card">
         <BriefIntro />
-      </div>
+      </section>
 
-      <div className="card">
+      <section className="card">
         <MySkills />
-      </div>
+      </section>
 
-      <div className="card">
+      <section className="card">
         <Experience />
-      </div>
+      </section>
 
-      <div className="card">
+      <section className="card">
         <Education />
-      </div>
+      </section>
       
     </>
   );

@@ -14,8 +14,13 @@ a:hover {
 
 .card {
   padding: 0.5em;
+  margin-bottom: 1em;
 }
 
 li {
   margin-bottom: 1em;
+}
+
+section {
+  page-break-inside: avoid;
 }
