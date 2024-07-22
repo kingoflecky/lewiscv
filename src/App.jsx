@@ -31,11 +31,10 @@ function App() {
       <section className="card">
         <Education />
       </section>
-      
+
       <section className="card">
         <Certifications />
       </section>
-      
     </>
   );
 }
