@@ -1,0 +1,13 @@
+.header-section {
+    display: inline-flex;
+    align-items: baseline;
+    width: 90vw;
+    justify-content: space-between;
+  }
+  
+  @media screen and (max-width: 430px) {
+    .header-section {
+      width: 85vw;
+   }
+  }
+  
