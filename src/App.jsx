@@ -5,6 +5,7 @@ import BriefIntro from "./components/BriefIntro";
 import MySkills from "./components/MySkills";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
+import Certifications from "./components/Certifications";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -29,6 +30,10 @@ function App() {
 
       <section className="card">
         <Education />
+      </section>
+      
+      <section className="card">
+        <Certifications />
       </section>
       
     </>
