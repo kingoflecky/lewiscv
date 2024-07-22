@@ -11,7 +11,7 @@ const Certifications = () => {
           certificateUrl={
             "https://www.codecademy.com/profiles/lewisquinn/certificates/705dcb15de0da4dd9d9fc4f3274b430e"
           }
-          certificateDate={"January 2023"}
+          certificateDate={"Jan 2023"}
         />
 
         <CertificationButton
@@ -19,7 +19,7 @@ const Certifications = () => {
           certificateUrl={
             "https://www.codecademy.com/profiles/lewisquinn/certificates/af00e5032d0a68cc84879983f5d8333b"
           }
-          certificateDate={"April 2023"}
+          certificateDate={"Apr 2023"}
         />
 
         <CertificationButton
@@ -35,7 +35,7 @@ const Certifications = () => {
           certificateUrl={
             "https://www.codecademy.com/profiles/lewisquinn/certificates/abe75630eb1ba0fda976c5d1053ecd29"
           }
-          certificateDate={"January 2024"}
+          certificateDate={"Jan 2024"}
         />
 
         <CertificationButton
@@ -43,7 +43,7 @@ const Certifications = () => {
           certificateUrl={
             "https://www.codecademy.com/profiles/lewisquinn/certificates/9a5bb1fc45b4281af1fffec93b0aaf05"
           }
-          certificateDate={"March 2023"}
+          certificateDate={"Mar 2023"}
         />
 
         <CertificationButton
@@ -51,7 +51,7 @@ const Certifications = () => {
           certificateUrl={
             "https://www.codecademy.com/profiles/lewisquinn/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7"
           }
-          certificateDate={"January 2023"}
+          certificateDate={"Jan 2023"}
         />
       </div>
     </>
