@@ -19,34 +19,34 @@ const Education = () => {
         </li>
         <li>
           My degree is highly versatile. Practicing Economics developed skills
-          in detailed data analysis and numaracy. Philosophy broadened my
+          in detailed data analysis and numeracy. Philosophy broadened my
           perspectives by helping me challenge the way that I think, the
-          rationality of my arguemnts, and to consider the oppositions arguemnt.
-          Politics then supports when gaining stakeholder buy-in. I always
-          present my findings in a confident, well-structured manner.
+          rationality of my arguments, and to consider the oppositions
+          perspective. Politics then supports when gaining stakeholder buy-in. I
+          always present my findings in a confident, well-structured manner.
         </li>
         <li>
           With in person tutorials or meetings rare, studying alongside working
           has required me to be extremely disciplined in maximising my
-          efficiencies. This strengthend my planning and organisational skills.{" "}
+          efficiencies. This strengthened my planning and organisational skills.{" "}
         </li>
       </ul>
 
-<br/>
+      <br />
       <h4>InfinityWorks Software Engineering Bootcamp (Front-End)</h4>
       <p>February 2022 - May 2022</p>
       <ul>
         <li>
           Ahead of joining Sainsbury's Bank as an Associate Engineer, I
-          successfully landed myself a place on a 12-week bootcamp focussed on
-          preparing people without tech backgrounds for their first engineering
-          role. I was one of 12 to successfully gain a place on the program from
-          a UK-wide pool of over 1200 applicants.
+          successfully landed myself a place on a sponsored 12-week bootcamp
+          focussed on preparing people without tech backgrounds for their first
+          engineering role. I was one of 12 to successfully gain a place on the
+          program from a UK-wide pool of over 1200 applicants.
         </li>
         <li>
           Main deliverable was an e-commerce site which used React & AWS. The
           customer had to be able to browse products, edit their basket, input
-          personal details, and recieve email confirmation of their order. The
+          personal details, and receive email confirmation of their order. The
           app used React State, Hooks, and API requests, to build an effective
           user-experience. I also handled design using Figma.
         </li>
