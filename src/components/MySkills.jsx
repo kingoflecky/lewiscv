@@ -31,7 +31,7 @@ const MySkills = () => {
             <li>Accessibilty & WCAG</li>
             <li>Agile & Scrum</li>
             <li>CI/CD Configuration & Pipelines</li>
-            <li>Git & Github/BitBucket</li>
+            <li>Git & GitHub/BitBucket</li>
           </ul>
         </div>
       </div>

@@ -3,11 +3,7 @@ const BriefIntro = () => {
     <>
       <h3>About Me</h3>
       <p>
-        I'm Lewis, a software engineer with experience across financial
-        technologies and retail. My roles to date have been predominatly
-        Front-End focussed, though I'm always keen to take on new challenges.
-        I'm based in Edinburgh, Scotland, and am open to working remotely with
-        companies globally.
+      I'm Lewis, a software engineer with experience across financial technologies and retail. My roles to date have been predominantly Front-End focussed, though I'm always keen to take on new challenges. I'm based in Edinburgh, Scotland, and am open to working remotely with companies globally.
       </p>
 
       <p>
@@ -24,8 +20,7 @@ const BriefIntro = () => {
       </p>
 
       <p>
-        I have a Bachelors degree with Honours in Politics, Philosophy, &
-        Economics, which I obtained whilst working full-time.
+      I have a Bachelor’s degree with Honours in Politics, Philosophy, & Economics, which I obtained whilst working full-time.
       </p>
     </>
   );
