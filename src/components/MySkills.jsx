@@ -28,7 +28,7 @@ const MySkills = () => {
         <div className="skillsItem">
           <p>Other/Non-technical</p>
           <ul>
-            <li>Accessibilty & WCAG</li>
+            <li>Accessibility & WCAG</li>
             <li>Agile & Scrum</li>
             <li>CI/CD Configuration & Pipelines</li>
             <li>Git & GitHub/BitBucket</li>
