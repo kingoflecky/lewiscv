@@ -3,7 +3,7 @@ const Education = () => {
     <>
       <h3>My Education</h3>
 
-      <h4>BA(Hons) Politics, Philosophy, & Economics</h4>
+      <h4>BA(Hons) Politics, Philosophy, & Economics - (2:1 - Upper Second-Class Honours)</h4>
       <p>October 2020 - May 2024</p>
       <ul>
         <li>
